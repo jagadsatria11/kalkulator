@@ -37,4 +37,14 @@ body{
 
 .displayNumber{
     text-align: right;
+}.nama {
+    padding: 2%; width: 300px; height: 200px;
+    background-color: aqua;
+    width: 300px;
+     height: 150px;
+     border: 2px solid black;
+     background-color: greenyellow;
+     margin: auto;
+  
+     box-shadow: 7px 7px 10px;
 }
